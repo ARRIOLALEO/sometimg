@@ -1,5 +1,6 @@
 import './App.css';
-import Light from './components/Light';
+import Light from './components/footer/Light';
+
 function App() {
   return (
     <div>
